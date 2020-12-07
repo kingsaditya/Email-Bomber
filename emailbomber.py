@@ -9,26 +9,7 @@ import os
 import smtplib
 import getpass
 import sys
-import time
-
-print '                                                                    '
-print '                                                                    '
-print '            #################################################       '
-print '            #                                               #       '
-print '            #        Email Bomber ( Spamming Tool )         #       '
-print '            #                                               #       '
-print '            #                  Version 2.0                  #       '
-print '            #                                               #       '
-print '            #           Modified by : Mohin Paramasivam     #       '
-print '            #                                               #       '
-print '            #       Only for Educational Purposes !!        #       '
-print '            #                                               #       '
-print '            #################################################       '
-
-print '                                                                   '
-
-
-print '                                           '
+import time                     '
 
 print '    '
 email = raw_input('Attacker Gmail Address : ')
